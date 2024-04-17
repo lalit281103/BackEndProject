@@ -67,6 +67,6 @@ The E-commerse clone website of Nordstrome.com is build by me in masai unit-2 pr
 ## A solo project build by me, executed in 4 Days.
 
 ## Developer
-- **[Dibyanshu Srivastav](https://github.com/sdibyanshu)**
+Lalit Sharma
 
 
